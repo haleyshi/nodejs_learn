@@ -1,0 +1,1 @@
+console.log("进程%d执行！", process.argv[2]);

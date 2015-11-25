@@ -1,0 +1,17 @@
+{
+	"user1": {
+		"name": "shiguohuang",
+		"password": "password1",
+		"id": 1
+		},
+	"user2": {
+		"name": "wuqian",
+		"password": "password2",
+		"id": 2
+		},
+	"user3": {
+		"name": "shiqiyang",
+		"password": "password3",
+		"id": 3
+	}
+}
